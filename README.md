@@ -1,33 +1,16 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Eizam bin Rozli Has</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-<p align="center">
-  https://readme-typing-svg.herokuapp.com?size=24&color=00FFB3&center=true&vCenter=true&width=500&lines=Java+Learner;Tech+Enthusiast;Always+Learning+New+Things
-</p>
-
----
-
 - 🌱 I’m currently learning **Java**
-- 📫 Reach me at **saplek1234@gmail.com**
-- ⚡ Fun fact: **I love eating chicken 🍗**
 
----
+- 📫 How to reach me **saplek1234@gmail.com**
 
-### 🌐 Connect with me:
+- ⚡ Fun fact **I like eating chicken**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-https://linkedin.com/in/your-link<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="ges and Tools:
-<p align="left">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40evicons/devicon/master/icons/php/php-original.svg" alt="php" width="usercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svgstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg
-https://cdn.worldvectorlogo.com/logos/adobe-xd.svg
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHubthub-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak align="center">
-  https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+make this cooler
