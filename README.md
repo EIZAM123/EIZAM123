@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Eizam bin Rozli Has</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **saplek1234@gmail.com**
 
